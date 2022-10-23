@@ -1,5 +1,5 @@
 # perfect-business-7811
-#Masai Construct-week project
+<h3>#Masai Construct-week project</h3><br>
 My project is “BLUEMERCURY”, and this Readme contains details about details of my project.We built a cloned website of bluemercurry with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
 
 Orignal website=> https://bluemercury.com/
@@ -32,7 +32,7 @@ Check Live => https://darling-basbousa-b508b0.netlify.app/
 </ol>
 
 ## Deployment Link
-https://indianexpressclonebysingh.netlify.app/
+ https://darling-basbousa-b508b0.netlify.app/
 ## Presentation Video Link
 {we have to record}
 
